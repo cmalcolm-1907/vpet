@@ -1,14 +1,14 @@
 # VPET
 
-##Desc## 
+## Desc 
 A simple vpet app in python\
 
-##Why## 
+## Why
 To practice python, ui, and single scene games\
 
-##Quickstart## 
+## Quickstart
 Not relevant yet\
 
-##Usage##
+## Usage
 
-##Contributing##
+## Contributing
